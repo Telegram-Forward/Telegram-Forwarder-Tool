@@ -1,9 +1,9 @@
 # Telegram-Forwarder-Tool
 A Telegram tool to forward any targeted messages from groups/channels/members to any groups/channels/members of your choice. Including many other features. Easy to use and noob-friendly.
 
-#### GET TOOL HERE: https://shorturl.at/9IP0t
+#### GET TOOL HERE: https://shorturl.at/eFKcu
 
-Feel free to contact us for any questions: https://shorturl.at/t0AKu
+Feel free to contact us for any questions: https://shorturl.at/eYKgQ
 
 <img src='UI1.png' width='450'>
 
@@ -36,9 +36,9 @@ Feel free to contact us for any questions: https://shorturl.at/t0AKu
 NEW FEATURES WILL BE IMPLEMENTED AT WISH!
 If you have any questions, make sure to contact us.
 
-#### GET TOOL HERE: https://shorturl.at/9IP0t
+#### GET TOOL HERE: https://shorturl.at/eFKcu
 
-Feel free to contact us for any questions: https://shorturl.at/t0AKu
+Feel free to contact us for any questions: https://shorturl.at/eYKgQ
 
 <a href="https://github.com/Telegram-Forward/Telegram-Forwarder-Tool"><img alt="Cute Count" src="https://count.getloli.com/get/@ToolFors4TG9?theme=asoul" /></a>
 
